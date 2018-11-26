@@ -1,0 +1,4 @@
+name,weight,extraHealth,extraStrength,extraWisdom
+Elixir,1,10,0,0
+Haste,1,0,3,3
+Page,1,5,2,2
